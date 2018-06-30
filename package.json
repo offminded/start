@@ -1,7 +1,7 @@
 {
   "name": "webpack-4-quickstart",
   "version": "1.0.0",
-  "description": "> Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode",
+  "description": "> Webpack 4 starter env",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --port 9000 --host 0.0.0.0",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/valentinogagliardi/webpack-4-quickstart.git"
+    "url": "https://github.com/offminded/start"
   },
   "keywords": [],
   "author": "",
